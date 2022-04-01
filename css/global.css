@@ -1,0 +1,21 @@
+#main{
+    margin:auto;
+    width: min-content;
+    background-color: aquamarine;
+    
+}
+
+#container{
+    text-align: center;
+}
+
+#text{
+    display: inline;
+    vertical-align: middle;
+    align-items: center;
+}
+
+#presentation{
+    padding-left: 50px;
+    padding-right: 50px;
+}
